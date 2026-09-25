@@ -15,6 +15,7 @@ you are advised to put it in the readme file, so as to prevent someone else from
 
 ################ PROJECT COURSE OUTLINE
 **** This is a description of the repository
+TOOLS AND RESOURCES
 DOCUMENTATION_RESOURCES
    -> documentation and resources (textbooks)
    -> Group calculations
@@ -26,6 +27,12 @@ ELECTRICAL ENGINEERING and ELECTRONICS ENGINEERING
     -> part supplier listing
     -> pcb files
 MECHANICAL-ENGIEERING
+   -> strucutral design
+   -> natural frequency
+   -> Relevant calculations and simulations
+   ->  Strucutural dynamics.
+   -> damping ratios and calculations.
+   -> 3d step files and design choices.
 
 
 
