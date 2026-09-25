@@ -1,0 +1,38 @@
+#PRIMARY RULES AND REGULATIONS
+1. Please ensure to keep a respectful and work-friendly evironment.
+2. Since the Repository is public ay one that feels like adding a rule is allowed.
+3. Do not under any circumstances make any changes to anybody's work without notifying the person.
+4. all code should be neatly commented so as to allow other people to understand what your making.
+5. When making a change to someone's code or calculations, it is best practice to make a comment explaining the nature of the change.
+6. When making general changes, you should always make sure to keep a record of those changes in a readme.md file.
+7. All work should be properly documented. 
+8. files that are made should be properly referenced, for example code written by a particular person should include that person's name so as to remove confusion on the origin of some files.
+9. Before making or starting work, you should ensure that you read the projects's Readme file, so as to remove redundant progress. for example if you are working on the pcb files  
+you are advised to put it in the readme file, so as to prevent someone else from doing something thats already be done.
+10. feel free to add anything, as i just briefly explained the rules i think should be applied when  making this project.
+11. And if by mistake you just delete all our work ba😂😂, we go commot shege for your body. (just messing with you man)
+
+
+################ PROJECT COURSE OUTLINE
+**** This is a description of the repository
+TOOLS AND RESOURCES
+DOCUMENTATION_RESOURCES
+   -> documentation and resources (textbooks)
+   -> Group calculations
+CIVIL-ENGINEERING
+ELECTRICAL ENGINEERING and ELECTRONICS ENGINEERING
+    -> datasheets
+    -> footprints
+    -> symbols
+    -> part supplier listing
+    -> pcb files
+MECHANICAL-ENGIEERING
+   -> strucutral design
+   -> natural frequency
+   -> Relevant calculations and simulations
+   ->  Strucutural dynamics.
+   -> damping ratios and calculations.
+   -> 3d step files and design choices.
+
+
+i dont know the specifics for each department, my advice is that all of us do our own research before the date of the meeting, so that we can see what each department will contribute, make sure to add your resources (tutorials, links, books) to the resources and documentation folder, also as you learn more about the specific requirements of your department, it would be beneficial if you update the course or roject over-view. i added the tools section to specify the type of tools we will be working with, since matlab is very heavy and very expensive for us......i use openmodelica, but you guys should tell me what tools you use so that we can get things moving
